@@ -1,0 +1,17 @@
+/*
+Theme Name: Rams Child
+Theme URI: http://antym.com
+Description:  A child theme of "Rams" by Anders Noren
+Author: Matt McGivney
+Author URI: http://antym.com
+Template: Rams
+Version: 0.0
+*/
+
+/* import the base styles */
+@import url('../rams/style.css');
+
+.credits {
+	margin-left: 2px;
+	bottom: 4%;
+}
